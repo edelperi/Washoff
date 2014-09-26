@@ -18,8 +18,9 @@ Contaminants, and Agricultural Wastes, 48:9, 737-746
 To link to this article: http://dx.doi.org/10.1080/03601234.2013.780551
 
 Int. J. Environ. Sci. Technol.
-DOI 10.1007/s13762-013-0445-3
-ORIGINAL PAPER
+http://dx.doi.org/10.1007/s13762-013-0445-3
+
+
 Modeling losses of copper-based fungicide foliar sprays
 in wash-off under simulated rain
 P. Pe ́rez-Rodrı ́guez • M. Paradelo • D. Soto-Go ́mez
