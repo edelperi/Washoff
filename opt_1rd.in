@@ -1,0 +1,35 @@
+****************************** LM-OPT INPUT FILE ******************************
+
+TITLE (OPTIONAL):
+      Fiting model for Calder pesticide washoff first order detachment model
+
+
+NAME OF INPUT DATA FILE:
+data.dat
+
+NAME OF OUTPUT FILE TO BE CREATED:
+data.out
+
+
+PARAMETER                FLOATER/CONSTANT    INITIAL    ALLOWED RANGE
+NAMES                     [ F,f / C,c ]       VALUE     MIN    MAX
+Nelem                         f                 50      20      300
+QdropP                        f                 0.1   0.01      50
+zerotP                        f                 1.0  0.0001     10.1
+QdropS                        f                 0.1   0.01      50
+zerotS                        f                 1.0  0.0001     10.1
+firstP                        f                 0.1  0.0001     1.0
+firstS                        f                 0.1  0.0001     1.0
+
+
+RELATIVE TERMINATION CRITERION FOR OBJECTIVE FUNCTION (nD):
+1.E-7
+
+MAXIMUM NUMBER OF Levenberg-Marquardt ITERATIONS:
+300
+
+RELATIVE PARAMETER STEP-LENGTH FOR DERIVATIVE APPROXIMATION:
+1.E-5
+
+INITIAL VALUE FOR MINIMIZATION-CONTROL PARAMETER 'LAMBDA':
+1.0
