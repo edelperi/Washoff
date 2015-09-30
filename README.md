@@ -1,7 +1,7 @@
 Washoff
 ======
 
-This is a piece of code that simulates the loss of  pesticides  sprayed on leaves by rainfall. The model is based  the detachment of a quantity of pesticide by a single raindrop hit.
+This code simulates the loss of  pesticides  sprayed on leaves by rainfall. The model is based  the detachment of a quantity of pesticide by a single raindrop hit.
 Accumulation of randomly distributed raindrop impacts on the canopy is a Point Poisson process.
 
 The timecourse os pesicide losses during a rainfall event can be derived in this way.
