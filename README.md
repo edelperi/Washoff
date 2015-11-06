@@ -23,5 +23,5 @@ http://dx.doi.org/10.1007/s13762-013-0445-3
 
 Modeling losses of copper-based fungicide foliar sprays
 in wash-off under simulated rain
-P. Pe ́rez-Rodrı ́guez • M. Paradelo • D. Soto-Go ́mez
-D. Ferna ́ndez-Calvin ̃o • J. E. Lo ́pez-Periago
+P. Perez-Rodriguez • M. Paradelo • D. Soto-Gomez
+D. Fernandez-Calvino • J. E. López-Periago
